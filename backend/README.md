@@ -33,7 +33,7 @@ Run test:
 
 Run project in Poetry Envirnoment:
 
-    poetry run uvicorn app.main:app --host 127.0.0.1 --port 8000 --reload
+    poetry run uvicorn myApp.main:app --host 127.0.0.1 --port 8000 --reload
 
 Open in Browser:
 
